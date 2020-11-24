@@ -1,3 +1,4 @@
-###Deep Learning Project
+###Deep Learning Project 
 
+CNN, NLP, CV 
 Updating~
